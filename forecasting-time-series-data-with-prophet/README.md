@@ -6,4 +6,10 @@ https://github.com/PacktPublishing/Forecasting-Time-Series-Data-with-Prophet-Sec
 
 ### Building a simple model in Prophet
 
-Missing a link to the Keeling CO2 dataset. It can be found on the GitHub repository: https://github.com/PacktPublishing/Forecasting-Time-Series-Data-with-Prophet-Second-Edition/blob/main/data/co2-ppm-daily_csv.csv
+CSV file can be found on the GitHub: https://github.com/PacktPublishing/Forecasting-Time-Series-Data-with-Prophet-Second-Edition/blob/main/data/co2-ppm-daily_csv.csv
+
+## Chapter 04
+
+### Using monthly data
+
+CSV file can be found on the GitHub: https://github.com/PacktPublishing/Forecasting-Time-Series-Data-with-Prophet-Second-Edition/blob/main/data/AirPassengers.csv
