@@ -13,3 +13,7 @@ CSV file can be found on the GitHub: https://github.com/PacktPublishing/Forecast
 ### Using monthly data
 
 CSV file can be found on the GitHub: https://github.com/PacktPublishing/Forecasting-Time-Series-Data-with-Prophet-Second-Edition/blob/main/data/AirPassengers.csv
+
+### Using sub-daily data
+
+CSV file can be found on the GitHub: https://github.com/PacktPublishing/Forecasting-Time-Series-Data-with-Prophet-Second-Edition/blob/main/data/divvy_hourly.csv
