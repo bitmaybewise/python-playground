@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from prophet import Prophet
 
-df = pd.read_csv("co2-ppm-daily_csv.csv")
+df = pd.read_csv("../data/co2-ppm-daily_csv.csv")
 df["date"] = pd.to_datetime(df["date"])
 df.columns = ["ds", "y"]
 

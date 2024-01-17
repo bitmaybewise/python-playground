@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from prophet import Prophet
 
-data = pd.read_csv("divvy_hourly.csv")
+data = pd.read_csv("../data/divvy_hourly.csv")
 df = pd.DataFrame({"ds": pd.to_datetime(data["date"]), "y": data["rides"]})
 model = Prophet(seasonality_mode="multiplicative")
 model.fit(df)

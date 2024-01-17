@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from prophet import Prophet
 
-df = pd.read_csv("AirPassengers.csv")
+df = pd.read_csv("../data/AirPassengers.csv")
 df["Month"] = pd.to_datetime(df["Month"])
 df.columns = ["ds", "y"]
 model = Prophet(seasonality_mode="multiplicative")
